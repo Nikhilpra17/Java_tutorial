@@ -4,4 +4,8 @@ Scanner usage in java:
  String Format
  
  Arraylist
+ 
+ Loops
+ 
+ Constructor
   
