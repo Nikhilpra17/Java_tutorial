@@ -8,4 +8,6 @@ Scanner usage in java:
  Loops
  
  Constructor
+ 
+ If you want to hover over the values of string, use  = string.charAt(index);
   
