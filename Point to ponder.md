@@ -15,3 +15,5 @@ Scanner usage in java:
  typecasting
  
 Asymptotic analysis = observing performance of very very large Inputs 
+
+inheritance 
