@@ -18,3 +18,4 @@ Asymptotic analysis = observing performance of very very large Inputs
 
 inheritance 
 bit manipulation
+recurrsive and iterative 
