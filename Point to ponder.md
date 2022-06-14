@@ -3,7 +3,7 @@ Scanner usage in java:
     
  String Format
  
- Arraylist
+ Arraylist 
  
  Loops
  
@@ -13,7 +13,7 @@ Scanner usage in java:
  
  parse 
  typecasting
- 
+  
 Asymptotic analysis = observing performance of very very large Inputs 
 
 inheritance 
@@ -27,3 +27,4 @@ int i=Integer.parseInt("200");   convert String to Integer
  If N is a perfect square, then it has an odd number of factors.
  
  Subarray question
+  
