@@ -44,3 +44,5 @@ int i=Integer.parseInt("200");   convert String to Integer
     * int B = A ^ B;
     * int A = A ^ B;
     
+##### To find set bit in an number - n & (n-1)
+    
