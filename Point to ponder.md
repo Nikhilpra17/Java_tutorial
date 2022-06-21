@@ -36,6 +36,7 @@ int i=Integer.parseInt("200");   convert String to Integer
 
 
 * Masking is done to check the number is even or odd. If the last bit is 1 = odd and if last bit is 0 = even.
+    * to do this -   (A & 1 == 0) //Even
 
 #### If need to swap two number-
     * use XOR (^) operator.
