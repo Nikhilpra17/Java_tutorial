@@ -1,4 +1,4 @@
-Scanner usage in java:
+- Scanner usage in java:
     - Assign it differently for the different data type otherwise it would not capture the data after _space.
   
  String Format
@@ -36,3 +36,5 @@ int i=Integer.parseInt("200");   convert String to Integer
 
 
 Masking is done to check the number is even or odd. If the last bit is 1 = odd and if last bit is 0 = even.
+
+## If need to swap 
