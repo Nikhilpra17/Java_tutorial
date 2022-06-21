@@ -30,11 +30,16 @@ int i=Integer.parseInt("200");   convert String to Integer
 
  Hashing
 
->> right shift by one is same as divided by 2.
+* >> right shift by one is same as divided by 2.
 
-<< left shift by one is same as multiply by 2.
+* << left shift by one is same as multiply by 2.
 
 
-Masking is done to check the number is even or odd. If the last bit is 1 = odd and if last bit is 0 = even.
+* Masking is done to check the number is even or odd. If the last bit is 1 = odd and if last bit is 0 = even.
 
-## If need to swap 
+## If need to swap two number-
+    * use XOR (^) operator.
+    * int A = A ^ B;
+    * int B = A ^ B;
+    * int A = A ^ B;
+    
