@@ -29,3 +29,5 @@ int i=Integer.parseInt("200");   convert String to Integer
  Subarray question
 
  Hashing
+
+>> right shift by one is same as divided by 2.
