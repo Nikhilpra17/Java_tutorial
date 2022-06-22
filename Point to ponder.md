@@ -47,3 +47,5 @@ int i=Integer.parseInt("200");   convert String to Integer
 ##### To find set bit in an number - n & (n-1)
     
 #### To find the only non repeating element in an array we can use XOR.
+
+
