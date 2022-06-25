@@ -14,7 +14,7 @@
  parse 
  typecasting
   
-Asymptotic analysis = observing performance of very very large Inputs 
+- Asymptotic analysis = observing performance of very very large Inputs 
 
 inheritance 
 bit manipulation
