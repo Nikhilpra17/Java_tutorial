@@ -48,4 +48,6 @@ ArrayList 2D Matrix
     
 #### To find the only non repeating element in an array we can use XOR.
 
+- ***Convert String to char Array = str.toCharArray();
+
 
