@@ -12,7 +12,7 @@
   
 - Asymptotic analysis = observing performance of very very large Inputs 
 
-inheritance 
+inheritance
 bit manipulation
 bit opeartors
 recurrsive and iterative 
