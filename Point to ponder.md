@@ -7,7 +7,7 @@
  
  - If you want to hover over the values of string, use  = string.charAt(index);
  
- parse 
+ parse
  typecasting
   
 - Asymptotic analysis = observing performance of very very large Inputs 
