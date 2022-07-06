@@ -25,7 +25,6 @@ ArrayList 2D Matrix
  Subarray question
 
  Hashing
-
 * >> right shift by one is same as divided by 2.
 
 * << left shift by one is same as multiply by 2.
