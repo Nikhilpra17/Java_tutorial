@@ -17,7 +17,6 @@ bit manipulation
 bit opeartors
 recurrsive and iterative 
 ArrayList 2D Matrix
-
 - int i=Integer.parseInt("200");   convert String to Integer
 
  - If N is a perfect square, then it has an odd number of factors. 
