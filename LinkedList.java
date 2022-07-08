@@ -134,6 +134,5 @@ public class LinkedList {
 		tail = null;
 		System.out.println(" Successfully deleted Whole Linked List");
 	}
-
 	}
 		
