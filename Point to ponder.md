@@ -49,4 +49,5 @@ Rain water trapping
 
 #### >- Operator 
 * separates the parameters (left-side) from the implementation (right side).
+* (Parameters) -> { Body } where the -> separates parameters and lambda expression body.
 
