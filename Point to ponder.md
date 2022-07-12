@@ -53,10 +53,10 @@ Rain water trapping
 * This one is useful as well when you want to implement a functional interface
   * Runnable r = ()-> System.out.print("Run method");
 * is equivalent to
-    * Runnable r = new Runnable() {
+       - Runnable r = new Runnable() {
        - @Override
        - public void run() {
-        -    System.out.print("Run method");
-        - }
-        - }; 
+       -    System.out.print("Run method");
+       - }
+       - }; 
 
