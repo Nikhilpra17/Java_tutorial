@@ -52,4 +52,11 @@ Rain water trapping
 * (Parameters) -> { Body } where the -> separates parameters and lambda expression body.
 * This one is useful as well when you want to implement a functional interface
   * Runnable r = ()-> System.out.print("Run method");
+* is equivalent to
+    * Runnable r = new Runnable() {
+        @Override
+        public void run() {
+            System.out.print("Run method");
+        }
+        }; 
 
