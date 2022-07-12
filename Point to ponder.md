@@ -47,14 +47,14 @@ Rain water trapping
 
 - ***Convert String to char Array = str.toCharArray();
 
-#### >- Operator 
+### >- Operator 
 * separates the parameters (left-side) from the implementation (right side).
 * (Parameters) -> { Body } where the -> separates parameters and lambda expression body.
 * This one is useful as well when you want to implement a functional interface
   * Runnable r = ()-> System.out.print("Run method");
 * is equivalent to
-       - Runnable r = new Runnable() {
-       - @Override
+     * - Runnable r = new Runnable() {
+         - @Override
        - public void run() {
        -    System.out.print("Run method");
        - }
