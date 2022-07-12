@@ -54,9 +54,9 @@ Rain water trapping
   * Runnable r = ()-> System.out.print("Run method");
 * is equivalent to
     * Runnable r = new Runnable() {
-        @Override
-        public void run() {
-            System.out.print("Run method");
-        }
-        }; 
+       - @Override
+       - public void run() {
+        -    System.out.print("Run method");
+        - }
+        - }; 
 
