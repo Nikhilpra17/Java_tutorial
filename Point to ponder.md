@@ -60,3 +60,6 @@ Rain water trapping
        - }
        - }; 
 
+
+***Whenever wanted to convert the integer to String, use the function as  = Integer.toString
+
