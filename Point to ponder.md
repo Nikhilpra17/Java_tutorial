@@ -65,3 +65,8 @@ Rain water trapping
 
 
 printf("%d", ij);
+
+switch (input){
+case 2 : -------
+break;
+}
