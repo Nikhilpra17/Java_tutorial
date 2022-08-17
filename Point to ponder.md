@@ -70,3 +70,6 @@ switch (input){
 case 2 : -------
 break;
 }
+
+for (int i : cases){
+}
