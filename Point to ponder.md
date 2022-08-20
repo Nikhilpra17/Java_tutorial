@@ -75,4 +75,4 @@ for (int i : cases){
 }
 
 
-- ***When Class Are decleared FINAL , you Can't extends it to subclasses. Eg - String Class, Intger, Double ***<br>
+- ***When Class Are decleared FINAL , you Can't extends it to subclasses. Eg - String Class, Intger, Double***<br>
