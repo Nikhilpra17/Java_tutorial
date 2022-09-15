@@ -87,5 +87,6 @@ ___
 <br>
 
 ArrayList Sort use Merge Sort <br>
+Array.sort use quick sort <br>
 
 ___
