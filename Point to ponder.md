@@ -80,3 +80,8 @@ for (int i : cases){
 - ***When Final keyword is used .....it always have to written with Capital Letter as convention***<br>
 - ![image](https://user-images.githubusercontent.com/97670140/187114725-47dde1d5-d2dd-4c00-9abb-0fc7d5d5d733.png)
 <br>
+___
+
+***The Worst time complexity of Array.sort is n^2 , so to avoid we can use this thing***
+![image](https://user-images.githubusercontent.com/97670140/190304695-7029d719-3f3d-49c3-a0e4-a85c707a27c3.png)
+
