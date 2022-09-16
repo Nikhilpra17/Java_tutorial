@@ -90,3 +90,6 @@ ArrayList Sort use Merge Sort <br>
 Array.sort use quick sort <br>
 
 ___
+
+![image](https://user-images.githubusercontent.com/97670140/190597290-e20f7a5c-4850-4d2c-a5a3-c5da6d35ee64.png)
+<br>
