@@ -96,3 +96,5 @@ ___
 ***Reverse The String***<br>
 ***Converting the StringBuilder to String***
 ___
+
+![image](https://user-images.githubusercontent.com/97670140/190855585-6d20eade-72a3-4221-b124-37f0d7c88b46.png)
