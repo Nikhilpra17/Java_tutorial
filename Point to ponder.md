@@ -86,7 +86,7 @@ ___
 ![image](https://user-images.githubusercontent.com/97670140/190304695-7029d719-3f3d-49c3-a0e4-a85c707a27c3.png)
 <br>
 
-ArrayList Sort use Merge Sort <br>
+ArrayList Sort use Merge Sort <br> 
 Array.sort use quick sort <br>
 
 ___
