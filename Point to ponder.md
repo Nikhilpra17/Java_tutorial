@@ -112,6 +112,9 @@ ___
 - ***Multiple Inheritance is not supporetd in Java through Classes but could be done through Interfaces***
 - ***Super Keyword is used to refer the immediate parent object ***
 - ***Super function (super()) call the parent class constructor from inside child class constructor ***
+___
 -  ***Overriding is a feature that allows a child class to provide to change a method that is already provided by one of its parent classes is Known as Method overidding ***
+-  ![image](https://user-images.githubusercontent.com/97670140/207078329-f5ce5d46-1185-4dc3-bc2f-8e0113cd4422.png)
+___
 -  
 
