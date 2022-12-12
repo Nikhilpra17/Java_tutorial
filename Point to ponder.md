@@ -111,4 +111,6 @@ ___
 
 - ***Multiple Inheritance is not supporetd in Java through Classes but could be done through Interfaces***
 - ***Super Keyword is used to refer the immediate parent object ***
+- ***Super function (super()) call the parent class constructor from inside child class constructor ***
+-  
 
